@@ -1,8 +1,8 @@
 package stringutil
 
 import (
-	"testing"
 	"math/rand"
+	"testing"
 )
 
 func TestIsPalindrome(t *testing.T) {

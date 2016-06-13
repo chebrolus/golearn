@@ -1,8 +1,8 @@
 package stringutil
 
 import (
-	"testing"
 	"math/rand"
+	"testing"
 )
 
 func TestReverse(t *testing.T) {
